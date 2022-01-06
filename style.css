@@ -12,6 +12,9 @@ body{
     color: white;
     border-radius: 5px;
 }
+.explore-more{
+    padding-top: 20px;
+}
 .flexible{
     display: flex;
     margin: 0% 10% 5% 10%
@@ -90,4 +93,47 @@ footer{
     color:rgb(78, 121, 121);
     padding-top: 0;
     font-size: 15px;
+}
+.new-portion{
+    background-color: rgb(202, 148, 209);
+    width: 30%;
+    height: 130px;
+    margin: 5%;
+    padding-left: 10px;
+    padding-top: 5%;
+}
+.new{
+    flex-flow: row wrap;
+    position: relative;
+}
+#first{
+    border-radius: 35px 20px 0 70px;
+}
+#second{
+    border-radius: 20px 35px 70px 0;
+}
+#third{
+    border-radius: 70px 0 20px 35px;
+}
+#fourth{
+    border-radius: 0 70px 35px 20px;
+}
+.margin{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.parent-div{
+    margin-left: 10%;
+}
+.one-word{
+    padding-top: 18%;
+    font-weight: bolder;
+}
+#align-box{
+    padding-left: 23%;
+}
+.last-paragraph{
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom: 5%;
 }
