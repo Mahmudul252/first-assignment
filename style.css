@@ -1,0 +1,37 @@
+body{
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.side-bar{
+    border-left: 3px solid;
+    border-color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgb(199, 75, 30);
+    color: white;
+    border-radius: 10px;
+}
+.flexible{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 120px;
+
+}
+img{
+    height: 500px;
+    width: 400px;
+}
+h1{
+    font-size: 60px;
+    margin: 0 0 0 10px;
+}
+.color-half-heading{
+    color: rgb(245, 184, 16);
+}
+#get-down{
+    margin-top: 100px;
+}
