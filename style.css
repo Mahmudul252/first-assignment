@@ -8,7 +8,7 @@ body{
 .link-button{
     text-decoration: none;
     padding: 10px 20px;
-    background-color: rgb(143, 55, 136);
+    background-color: rgb(247, 103, 103);
     color: white;
     border-radius: 5px;
 }
@@ -59,9 +59,15 @@ h1{
     padding-left: 20px;
     padding-bottom: 20px;
 }
-.section3-bg-image{
-    background-image: url("images/shape-1.png");
-    background-repeat: no-repeat;
-    background-position:left;
-    background-size: cover;
+.third-heading{
+    font-size: 35px;
+    margin: 0;
+}
+.third-portion-image{
+    height: 400px;
+    width: 450px;
+    margin-left: 10%;
+}
+#margin-top{
+    margin-top: 70px;
 }
