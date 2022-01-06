@@ -1,5 +1,4 @@
 body{
-    font-family: 'Luxurious Roman', cursive;
     font-family: 'Poppins', sans-serif;
 }
 .side-bar{
@@ -15,23 +14,49 @@ body{
 }
 .flexible{
     display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .half-width{
     width: 50%;
-    margin-left: 120px;
-
 }
-img{
+.big-image{
     height: 500px;
     width: 400px;
+}
+.small-image{
+    height: 150px;
+    width: 150px;
 }
 h1{
     font-size: 60px;
     margin: 0 0 0 10px;
+}
+.second-heading{
+    font-size: 50px;
 }
 .color-half-heading{
     color: rgb(245, 184, 16);
 }
 #get-down{
     margin-top: 100px;
+}
+.align-center{
+    text-align: center;
+}
+#mission{
+    background-color:rgb(163, 199, 201);
+}
+#vission{
+    background-color: rgb(248, 201, 184);
+}
+#goal{
+    background-color: rgb(202, 148, 209);
+}
+.tri-box{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
